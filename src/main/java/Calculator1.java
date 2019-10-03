@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Calculator {
+public class Calculator1 {
 
     private String regex = "[,:]";
 

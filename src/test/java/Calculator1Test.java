@@ -3,13 +3,13 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class CalculatorTest {
+public class Calculator1Test {
 
-    private Calculator cal;
+    private Calculator1 cal;
 
     @Before
     public void setUp(){
-        cal = new Calculator();
+        cal = new Calculator1();
     }
 
     @Test(expected = RuntimeException.class)
